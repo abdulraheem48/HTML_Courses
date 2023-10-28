@@ -88,13 +88,13 @@ code {
 }
 
 /* Apply background and text colors for specific elements */
-p {
+/*p {
     background-color: #fff;
     color: #333;
     padding: 10px;
     border: 1px solid #ccc;
 }
-
+*/
 h4 {
     color: crimson;
 }
